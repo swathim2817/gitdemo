@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-28T08:02:33 IST" name="Default suite" finished-at="2024-04-28T08:02:33 IST" duration-ms="115">
+    <groups>
+    </groups>
+    <test started-at="2024-04-28T08:02:33 IST" name="Default test" finished-at="2024-04-28T08:02:33 IST" duration-ms="115">
+      <class name="UITest.seleniumProj.NewTest">
+        <test-method signature="aata()[pri:1, instance:UITest.seleniumProj.NewTest@242b836]" started-at="2024-04-28T08:02:33 IST" name="aata" finished-at="2024-04-28T08:02:33 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aata -->
+        <test-method signature="dmount()[pri:1, instance:UITest.seleniumProj.NewTest@242b836]" started-at="2024-04-28T08:02:33 IST" name="dmount" finished-at="2024-04-28T08:02:33 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dmount -->
+      </class> <!-- UITest.seleniumProj.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
